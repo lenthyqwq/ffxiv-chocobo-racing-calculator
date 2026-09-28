@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+*.local
+.DS_Store
+
+# 本地预览截图，不随仓库发布
+汉化预览.png
+
+# LaTeX build artifacts (the .tex source and .pdf are tracked)
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.log
+*.toc
+*.synctex.gz
